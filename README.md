@@ -2,6 +2,10 @@
 
 A simple Discord bot built with Node.js and discord.js. This project currently includes a basic message responder and a slash command setup for a ping command and a create command placeholder.
 
+## Demo
+
+![Discord bot responding to messages and slash commands](image.png)
+
 ## Features
 
 - Basic bot startup with Discord.js v14
